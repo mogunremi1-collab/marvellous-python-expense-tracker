@@ -3,6 +3,7 @@
 A simple yet powerful command-line Expense Tracker built with **Python** and **SQLite**.
 
 ![Expense Tracker Screenshot](screenshot.png)
+<img src="screenshot.png" alt="Expense Tracker">
 
 ## ✨ Features
 
